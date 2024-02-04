@@ -37,7 +37,10 @@ Let's make something awesome together. 🚀
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CetiJunior&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=CetiJunior&limit=5&theme=dracula&combine_all_yearly_contributions=true">
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
