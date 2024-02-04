@@ -24,13 +24,13 @@ Let's make something awesome together. 🚀
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=CetiJunior&theme=gruvbox&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
   </tr>
 </table>
