@@ -38,9 +38,6 @@ Let's make something awesome together. 🚀
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=CetiJunior&theme=gruvbox&hide_border=false" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" />
-    </td>
   </tr>
 </table>
 
