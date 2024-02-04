@@ -1,6 +1,5 @@
-<p align="center">
-# 💫 About Me:
-</p>
+
+<h1 align="center">💫 About Me:</h1>
 
 Hey there! 👋 I'm an avid coder and creator at heart, currently diving deep into the world of artificial intelligence with my project, **LyriFusion**, an AI Lyric Generator designed to blend creativity with technology. 🎶🤖
 
