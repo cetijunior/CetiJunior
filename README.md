@@ -1,5 +1,5 @@
 
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me: </h1>
 
 Hey there! 👋 I'm an avid coder and creator at heart, currently diving deep into the world of artificial intelligence with my project, **LyriFusion**, an AI Lyric Generator designed to blend creativity with technology. 🎶🤖
 
@@ -12,7 +12,7 @@ My journey is one of continuous learning, where each project, whether it's codin
 Let's make something awesome together. 🚀
 
 
-<h1 align="center">🌐 Socials:</h1>
+<h1 align="center">🌐 Socials: </h1>
 <p align="center">
    <a href="https://www.linkedin.com/in/shefqet-cj-lame/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -46,7 +46,7 @@ Let's make something awesome together. 🚀
 
 
 
-<h2 align="center">🔝 Top Contributed Repo </h2>
+<h2 align="center">🔝 Top Contributed Repo: </h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=CetiJunior&limit=5&theme=dracula&combine_all_yearly_contributions=true">
 </p>
