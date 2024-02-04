@@ -32,14 +32,15 @@ Let's make something awesome together. 🚀
 
 <table>
   <tr>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
-    <td>
+    <td align="center" style="padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=CetiJunior&theme=gruvbox&hide_border=false" />
     </td>
   </tr>
 </table>
+
 
 
 ### 🔝 Top Contributed Repo
