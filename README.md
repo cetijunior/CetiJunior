@@ -61,7 +61,7 @@ Let's make something awesome together. 🚀
 
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
-<p align="center">
+<p align="center" padding="10px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CetiJunior&theme=gruvbox&hide_border=false" alt="GitHub Streak">
 </p>
