@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on a AI Lyric Generator (LyriFusion)<br>🌱 I’m currently learning Desktop Programming (Java)<br>💬 Ask me about Photography, Music Production<br>
+
+Hey there! 👋 I'm an avid coder and creator at heart, currently diving deep into the world of artificial intelligence with my project, **LyriFusion**, an AI Lyric Generator designed to blend creativity with technology. 🎶🤖
+
+By day, I'm mastering the intricacies of **Desktop Programming using Java**, constantly amazed by what can be built with lines of code. By night, I turn my attention to the rhythms of music production and the precise moments captured in photography. 📸🎧
+
+My journey is one of continuous learning, where each project, whether it's coding an application or producing a new track, teaches me something new. I believe in the power of creativity to solve problems and make the world a more interesting place.
+
+💬 Feel free to ask me about the challenges of developing an AI that understands the nuances of human emotion through music, the transition from capturing moments to creating them, or anything in-between. I'm here to share my experiences and learn from this incredible community.
+
+Let's make something awesome together. 🚀
 
 
 ## 🌐 Socials:
