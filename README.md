@@ -65,15 +65,3 @@ Let's make something awesome together. 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetiJunior&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CetiJunior&theme=gruvbox&hide_border=false" alt="GitHub Streak">
 </p>
-
-
-
-
-<h2 align="center">🔝 Top Contributed Repo: </h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CetiJunior&limit=5&theme=dracula&combine_all_yearly_contributions=true">
-</p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
