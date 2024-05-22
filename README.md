@@ -15,12 +15,6 @@ Let's make something awesome together. 🚀
    <a href="https://www.linkedin.com/in/shefqet-cj-lame/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://youtube.com/@themelodiccode">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://instagram.com/themelodicc0de">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 <p></p>
