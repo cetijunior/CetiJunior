@@ -3,7 +3,8 @@
 
 Hey there! 👋 I'm CJ
 
-By day, I'm mostly coding (Websites mostly, Desktop/Mobile sometimes). I am constantly amazed by what can be built with lines of code. By night, I turn my attention to the rhythms of music production and the precise moments captured in photography. 📸🎧
+By day, I'm coding (Websites mostly, Desktop/Mobile sometimes). I am constantly amazed by what can be built with lines of code. 
+By night, I turn my attention to the rhythms of music production and the precise moments captured in photography. 📸🎧
 
 My journey is one of continuous learning, where each project, whether it's coding an application or producing a new track, teaches me something new. I believe in the power of creativity to solve problems and make the world a more interesting place.
 
