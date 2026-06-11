@@ -75,7 +75,7 @@ When I'm not shipping, I'm producing beats — same instinct, different tools. �
 <h3 align="center">📫 Let's connect</h3>
 
 <p align="center">
-  <a href="https://www.ca-webservices.com/">🌐 ca-webservices.com</a> ·
+  <!-- <a href="https://www.ca-webservices.com/">🌐 ca-webservices.com</a> · -->
   <a href="https://www.linkedin.com/in/shefqet-cj-lame/">💼 LinkedIn</a> ·
   ✉️ lameceti1@gmail.com
 </p>
