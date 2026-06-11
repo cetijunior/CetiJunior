@@ -17,7 +17,7 @@
 
 <p align="center">
 I co-found and build at <b>CA Web Services</b> — taking client projects from empty repo to shipped product.<br>
-Mostly full-stack web (React / Next.js / TypeScript), increasingly native iOS in Swift.<br>
+Mostly full-stack web (React / Next.js / TypeScript), with native iOS and desktop apps on the side.<br>
 When I'm not shipping, I'm producing beats — same instinct, different tools. 🎧
 </p>
 
@@ -54,27 +54,27 @@ When I'm not shipping, I'm producing beats — same instinct, different tools. �
 
 ---
 
-<h3 align="center">🚀 Things I've built</h3>
+<h3 align="center">🌐 Websites</h3>
+
+<p align="center">
+  <b><a href="https://www.ca-webservices.com/">CA Web Services</a></b><br>
+  My agency — production websites and web apps for real businesses (React / Next.js / TypeScript).<br>
+  This is where most of my client work lives.
+</p>
+
+---
+
+<h3 align="center">📱 Apps & Other Builds</h3>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>🃏 <a href="https://github.com/cetijunior/Murlan">Murlan</a></h4>
+      <h4>🃏 <a href="https://github.com/cetijunior/Murlan">Murlan</a> — iOS</h4>
       The Albanian card game as a native iOS app (Swift / SwiftUI). Pass-and-play works today; local + online multiplayer in progress.
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/cetijunior/Odysseus">Odysseus</a></h4>
-      A self-hosted AI workspace. Open source — built it because I wanted my own tools, not a subscription.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💸 Fina <i>(building now)</i></h4>
-      AI finance dashboard for Albanian SMBs — an owner-facing "understand your numbers" layer over local accounting software. Started at VibeHack 2026.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://www.ca-webservices.com/">CA Web Services</a></h4>
-      Production sites for real businesses. The agency is where most of my best work lives.
+      <h4>🏋️ <a href="https://github.com/cetijunior/Java-Gym-Management-System">Gym Management System</a> — Java</h4>
+      A desktop gym management application built in Java — members, plans, and records.
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ When I'm not shipping, I'm producing beats — same instinct, different tools. �
 <h3 align="center">🔭 Currently</h3>
 
 <p align="center">
-Shipping <b>Fina</b> · Adding online multiplayer to <b>Murlan</b> · Growing <b>CA Web Services</b>
+Growing <b>CA Web Services</b> · Adding online multiplayer to <b>Murlan</b> · Always building something new
 </p>
 
 <p align="center"><i>Open to interesting client work and collaborations.</i></p>
