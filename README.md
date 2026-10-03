@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm CJ 👋</h1>
 
 <p align="center">
-  <b>Co-founder @ CA Web Services</b> · Full-stack dev shipping web + iOS · CS student in Albania 🇦🇱
+  <b>Co-founder @ Rritje Sade</b> · Full-stack dev shipping web + iOS · CS student in Albania 🇦🇱
 </p>
 
 <p align="center">
