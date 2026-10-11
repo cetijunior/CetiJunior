@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm CJ 👋</h1>
 
 <p align="center">
-  <b>Co-founder @ <a href="https://www.rritjesade.com/">Rritje Sade</a></b> · Full-stack dev shipping web + iOS · CS student in Albania 🇦🇱
+  <b>Founder @ <a href="https://www.rritjesade.com/">Rritje Sade</a></b> · Full-stack dev shipping web + iOS · CS student in Albania 🇦🇱
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <h3 align="center">🧑‍💻 What I do</h3>
 
 <p align="center">
-I co-found and build at <a href="https://www.rritjesade.com/"><b>Rritje Sade</b></a> — taking client projects from empty repo to shipped product.<br>
+I found and build at <a href="https://www.rritjesade.com/"><b>Rritje Sade</b></a> — taking client projects from empty repo to shipped product.<br>
 Mostly full-stack web (React / Next.js / TypeScript), with native iOS and desktop apps on the side.<br>
 When I'm not shipping, I'm producing beats — same instinct, different tools. 🎧<br><br>
 👇 My <a href="https://github.com/CetiJunior?tab=repositories">pinned repos</a> below show what that looks like in practice.
